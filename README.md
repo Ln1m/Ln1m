@@ -70,7 +70,7 @@
 |---|---|
 | [dsh-tool-file-search](https://github.com/Ln1m/dsh-tool-file-search) | `@` 菜单里的全机文件搜索 |
 | [dsh-tool-literature](https://github.com/Ln1m/dsh-tool-literature) | 模型可调用的 `literature_search` 工具（OpenAlex + arXiv） |
-| [dsh-tool-wifi-access](https://github.com/Ln1m/dsh-tool-wifi-access) | 手机访问 host 半：`3081` 反代（界面由第三方 `dsh-pocket` 提供） |
+| [dsh-tool-wifi-access](https://github.com/Ln1m/dsh-tool-wifi-access) | 手机访问 host 半：`3081` 反代（界面由第三方 `dsh-pocket` 提供）。移动端访问**只装一个**：优先带口令的 `dsh-pocket`，不装它就只装本仓 |
 
 ## 宿主外壳
 
@@ -156,7 +156,7 @@ Feature plugins ship in two builds: `main` is the vk build (vk slots only, with 
 |---|---|
 | [dsh-tool-file-search](https://github.com/Ln1m/dsh-tool-file-search) | Machine-wide file search from the `@` menu |
 | [dsh-tool-literature](https://github.com/Ln1m/dsh-tool-literature) | Model-callable `literature_search` tool (OpenAlex + arXiv) |
-| [dsh-tool-wifi-access](https://github.com/Ln1m/dsh-tool-wifi-access) | Mobile-access host half: the `3081` reverse proxy (the UI comes from third-party `dsh-pocket`) |
+| [dsh-tool-wifi-access](https://github.com/Ln1m/dsh-tool-wifi-access) | Mobile-access host half: the `3081` reverse proxy (the UI comes from third-party `dsh-pocket`). **Install exactly one** mobile access: prefer the password-protected `dsh-pocket`, otherwise this one only |
 
 ## Host shell
 
