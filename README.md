@@ -10,7 +10,7 @@
 
 | 家族仓 | 部位 | 包含的包 |
 |---|---|---|
-| [dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) | 框架（唯一前置） | `dsh-vk-contract`（槽位契约）、`dsh-vk-layout`（布局骨架） |
+| [dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) | 框架 + 设置中心（唯一前置） | `dsh-vk-contract`、`dsh-vk-layout`、`dsh-vk-settings`、`dsh-vk-settings-hub`、`dsh-usage-board` |
 | [dsh-side-suite](https://github.com/Ln1m/dsh-side-suite) | 左栏 | `dsh-files-tree`、`dsh-files-open`、`dsh-extensions-panel`、`dsh-lan-services`、`dsh-lt-tasks` |
 | [dsh-pane-suite](https://github.com/Ln1m/dsh-pane-suite) | 右栏 | `dsh-viewer`、`dsh-embedded-browser` |
 | [dsh-chrome-suite](https://github.com/Ln1m/dsh-chrome-suite) | 会话头 / 左栏底部 | `dsh-restart-button`、`dsh-archive-button`、`dsh-wallet` |
@@ -46,7 +46,7 @@ dsh plugin --profile web add file:<克隆路径>/dsh-side-suite/dsh-files-tree
 
 | Family repo | Part of the UI | Packages |
 |---|---|---|
-| [dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) | Framework (the only prerequisite) | `dsh-vk-contract` (slot contract), `dsh-vk-layout` (layout skeleton) |
+| [dsh-vk-suite](https://github.com/Ln1m/dsh-vk-suite) | Framework + settings centre (the only prerequisite) | `dsh-vk-contract`, `dsh-vk-layout`, `dsh-vk-settings`, `dsh-vk-settings-hub`, `dsh-usage-board` |
 | [dsh-side-suite](https://github.com/Ln1m/dsh-side-suite) | Left column | `dsh-files-tree`, `dsh-files-open`, `dsh-extensions-panel`, `dsh-lan-services`, `dsh-lt-tasks` |
 | [dsh-pane-suite](https://github.com/Ln1m/dsh-pane-suite) | Right column | `dsh-viewer`, `dsh-embedded-browser` |
 | [dsh-chrome-suite](https://github.com/Ln1m/dsh-chrome-suite) | Session header / sidebar bottom | `dsh-restart-button`, `dsh-archive-button`, `dsh-wallet` |
